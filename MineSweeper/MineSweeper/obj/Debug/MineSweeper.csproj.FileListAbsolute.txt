@@ -1,0 +1,10 @@
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineCell.resources
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Irina\Desktop\Minesweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form1.resources
